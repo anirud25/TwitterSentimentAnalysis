@@ -2,7 +2,8 @@
 Twitter Data Sentiment Analysis for NASDAQ Companies using Apache Spark
 
 Today, sentiment analysis is a vital tool to understand public opinion and market sentiment, especially in the financial markets. Through sentiment analysis done on social media, investors and market analysts have the opportunity to gain information about market trends and sentiment expressed by investors. X (formerly Twitter) with its vast user base and real-time nature information flow, has become a prominent platform for sharing opinions and news and thus, increasing the scope in leveraging this data source for sentiment data collection and gaining insights especially in the financial markets. This work focuses on sentiment analysis for the NASDAQ-listed company posts on Twitter, aiming to use the large and dynamic data in the social media world in order to get public perception on companies and thereby make informed predictions on the market. It involves the preprocessing of the Twitter data gathered, the preprocessing of labeled data by cleaning and tokenizing, and the labeling of the remaining data by the VADER sentiment analysis tool.
-## Dataset from Kaggle - https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020
+### Dataset from Kaggle [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white)](https://www.kaggle.com/datasets/omermetinn/tweets-about-the-top-companies-from-2015-to-2020)
+ 
 
 ![image](https://github.com/user-attachments/assets/8e65615f-4f23-4b8e-be80-efc2d87b5b53)
 Fig. System Design of the Proposed Framework
